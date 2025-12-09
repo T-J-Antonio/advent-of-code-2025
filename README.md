@@ -13,7 +13,7 @@ To run Haskell scripts, use `stack runghc <file>`. For example, to run day 1 par
 | 6 | ✅ | ✅ |
 | 7 | ✅ | ✅ |
 | 8 | ✅ | ✅ |
-| 9 |  |  |
+| 9 | ✅ |  |
 | 10 |  |  |
 | 11 |  |  |
 | 12 |  |  |
