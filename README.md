@@ -21,4 +21,4 @@ to install the linear programming library, then run the script with the `python`
 | 9 | ✅ | ✅ |
 | 10 | ✅ | ✅ |
 | 11 | ✅ | ✅ |
-| 12 |  |  |
+| 12 | ✅ | 🌟 |
